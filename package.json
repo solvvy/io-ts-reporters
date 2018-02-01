@@ -1,5 +1,5 @@
 {
-  "name": "io-ts-reporters",
+  "name": "@solvvy/io-ts-reporters",
   "main": "./target/src/index.js",
   "typings": "./target/src/index.d.ts",
   "version": "0.0.19",
